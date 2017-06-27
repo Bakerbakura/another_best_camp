@@ -1,8 +1,9 @@
 IMO
-Test,Q1,Q2,Q3
-1,C1,G2,A4
+Test	Q1	Q2	Q3
+1		C1	G2	A4
+
 
 PAMO
-Test,Q1,Q2,Q3
-1,A,G,N
+Test	Q1	Q2	Q3
+1		A	G	N
 
