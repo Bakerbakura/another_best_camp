@@ -9,5 +9,5 @@ PAMO
 Test	1	2	3
 1		A	G	NC
 2		NC	G	A
-3		G?	A	C?
+3		G	A	C
 
